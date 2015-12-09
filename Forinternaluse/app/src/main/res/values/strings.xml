@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ForInternalUse</string>
+    <string name="action_settings">Settings</string>
+    <string name="Addinfo">Add Information</string>
+    <string name="ModifyInfo">Modify Information</string>
+    <string name="DeleteInfo">Delete Information</string>
+</resources>
